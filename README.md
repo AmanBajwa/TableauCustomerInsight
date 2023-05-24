@@ -1,3 +1,3 @@
-##  Customer Insight Dashboard
+##  Tableau Dashboard
 
 <img src="Snapshot.png" alt="SS 1"/>
